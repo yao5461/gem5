@@ -39,6 +39,7 @@
 #include "mem/cache/tags/fa_lru.hh"
 #include "mem/cache/tags/lru.hh"
 #include "mem/cache/tags/random_repl.hh"
+#include "mem/cache/tags/dip.hh"
 #include "mem/cache/cache_impl.hh"
 
 // Template Instantiations
@@ -47,5 +48,6 @@
 template class Cache<FALRU>;
 template class Cache<LRU>;
 template class Cache<RandomRepl>;
+template class Cache<DIP>;
 
 #endif //DOXYGEN_SHOULD_SKIP_THIS

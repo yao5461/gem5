@@ -50,6 +50,7 @@
 #include "mem/cache/tags/fa_lru.hh"
 #include "mem/cache/tags/lru.hh"
 #include "mem/cache/tags/random_repl.hh"
+#include "mem/cache/tags/dip.hh"
 #include "mem/cache/base.hh"
 #include "mem/cache/cache.hh"
 #include "mem/cache/mshr.hh"
@@ -795,6 +796,8 @@ BaseCacheParams::create()
         return new Cache<LRU>(this);
     } else if (dynamic_cast<RandomRepl*>(tags)) {
         return new Cache<RandomRepl>(this);
+    } else if (dynamic_cast<DIP*>(tags)) {
+        return new Cache<DIP>(this);
     } else {
         fatal("No suitable tags selected\n");
     }

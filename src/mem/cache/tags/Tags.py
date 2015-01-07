@@ -71,6 +71,11 @@ class RandomRepl(BaseSetAssoc):
     cxx_class = 'RandomRepl'
     cxx_header = "mem/cache/tags/random_repl.hh"
 
+class DIP(BaseSetAssoc):
+    type = 'DIP'
+    cxx_class = 'DIP'
+    cxx_header = "mem/cache/tags/dip.hh"
+
 class FALRU(BaseTags):
     type = 'FALRU'
     cxx_class = 'FALRU'
