@@ -80,6 +80,8 @@ class DIP : public BaseSetAssoc
     int psel;
     int bipctr;
 
+    int paramEpsilon;  // BIP-default value: 32
+    int paramSetDuel;  // default value: 32
 };
 
 #endif // __MEM_CACHE_TAGS_DIP_HH__

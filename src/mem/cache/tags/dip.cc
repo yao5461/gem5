@@ -55,6 +55,8 @@ DIP::DIP(const Params *p)
     : BaseSetAssoc(p),
       useLRU(true), psel(0), bipctr(0)
 {
+  	paramEpsilon = 32;
+	paramSetDuel = 32;
 }
 
 BaseSetAssoc::BlkType*
@@ -101,7 +103,7 @@ DIP::insertBlock(PacketPtr pkt, BlkType *blk)
     int set = extractSet(pkt->getAddr());
     // sets[set].moveToTail(blk);
 
-    int offset = extractBlkOffset(pkt->getAddr());
+    // int offset = extractBlkOffset(pkt->getAddr());
 
     // update PSEL selector
     if (useLRU) {
@@ -112,14 +114,15 @@ DIP::insertBlock(PacketPtr pkt, BlkType *blk)
     
     // update BIP counter
     if (!useLRU) {
-    bipctr ++;
-    if (bipctr >= 32) {
-	bipctr = 0;
-    }
+	bipctr ++;
+	if (bipctr >= paramEpsilon) {
+	    bipctr = 0;
+	}
     }
 
     // choose policy
-    int dss = offset % 32;
+    // int dss = offset % 32;
+    int dss = set % paramSetDuel;
     if (0 == dss) { // LRU
 	useLRU = true;
     } else if (31 == dss) { // BIP
@@ -138,7 +141,8 @@ DIP::insertBlock(PacketPtr pkt, BlkType *blk)
 	if (bipctr == 0) {
 	    sets[set].moveToHead(blk);
 	} else {
-	    sets[set].moveToTail(blk);
+	    // sets[set].moveToTail(blk);
+	    // do nothing
 	}
     }
 }
