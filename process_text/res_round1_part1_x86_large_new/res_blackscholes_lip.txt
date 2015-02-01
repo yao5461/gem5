@@ -1,0 +1,114 @@
+---------- Begin Simulation Statistics ----------
+system.cpu0.dcache.overall_hits::total       23018213                       # number of overall hits
+system.cpu0.dcache.overall_misses::total      2012201                       # number of overall misses
+system.cpu0.dcache.overall_accesses::total     25030414                       # number of overall (read+write) accesses
+system.cpu0.dcache.overall_miss_rate::total     0.080390                       # miss rate for overall accesses
+system.cpu0.icache.overall_hits::total      283107639                       # number of overall hits
+system.cpu0.icache.overall_misses::total       622320                       # number of overall misses
+system.cpu0.icache.overall_accesses::total    283729959                       # number of overall (read+write) accesses
+system.cpu0.icache.overall_miss_rate::total     0.002193                       # miss rate for overall accesses
+system.cpu1.dcache.overall_hits::total        2643605                       # number of overall hits
+system.cpu1.dcache.overall_misses::total       386084                       # number of overall misses
+system.cpu1.dcache.overall_accesses::total      3029689                       # number of overall (read+write) accesses
+system.cpu1.dcache.overall_miss_rate::total     0.127434                       # miss rate for overall accesses
+system.cpu1.icache.overall_hits::total       13686129                       # number of overall hits
+system.cpu1.icache.overall_misses::total        44601                       # number of overall misses
+system.cpu1.icache.overall_accesses::total     13730730                       # number of overall (read+write) accesses
+system.cpu1.icache.overall_miss_rate::total     0.003248                       # miss rate for overall accesses
+system.cpu2.dcache.overall_hits::total        2182506                       # number of overall hits
+system.cpu2.dcache.overall_misses::total        57158                       # number of overall misses
+system.cpu2.dcache.overall_accesses::total      2239664                       # number of overall (read+write) accesses
+system.cpu2.dcache.overall_miss_rate::total     0.025521                       # miss rate for overall accesses
+system.cpu2.icache.overall_hits::total        8091886                       # number of overall hits
+system.cpu2.icache.overall_misses::total        47951                       # number of overall misses
+system.cpu2.icache.overall_accesses::total      8139837                       # number of overall (read+write) accesses
+system.cpu2.icache.overall_miss_rate::total     0.005891                       # miss rate for overall accesses
+system.cpu3.dcache.overall_hits::total        2315998                       # number of overall hits
+system.cpu3.dcache.overall_misses::total        64410                       # number of overall misses
+system.cpu3.dcache.overall_accesses::total      2380408                       # number of overall (read+write) accesses
+system.cpu3.dcache.overall_miss_rate::total     0.027058                       # miss rate for overall accesses
+system.cpu3.icache.overall_hits::total        7818682                       # number of overall hits
+system.cpu3.icache.overall_misses::total        44964                       # number of overall misses
+system.cpu3.icache.overall_accesses::total      7863646                       # number of overall (read+write) accesses
+system.cpu3.icache.overall_miss_rate::total     0.005718                       # miss rate for overall accesses
+system.l2.overall_hits::total                 2291749                       # number of overall hits
+system.l2.overall_misses::total                616594                       # number of overall misses
+system.l2.overall_accesses::total             2908343                       # number of overall (read+write) accesses
+system.l2.overall_miss_rate::total           0.212009                       # miss rate for overall accesses
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+system.cpu0.dcache.overall_hits::total         952305                       # number of overall hits
+system.cpu0.dcache.overall_misses::total         8306                       # number of overall misses
+system.cpu0.dcache.overall_accesses::total       960611                       # number of overall (read+write) accesses
+system.cpu0.dcache.overall_miss_rate::total     0.008647                       # miss rate for overall accesses
+system.cpu0.icache.overall_hits::total        3646586                       # number of overall hits
+system.cpu0.icache.overall_misses::total         8038                       # number of overall misses
+system.cpu0.icache.overall_accesses::total      3654624                       # number of overall (read+write) accesses
+system.cpu0.icache.overall_miss_rate::total     0.002199                       # miss rate for overall accesses
+system.cpu1.dcache.overall_hits::total         246865                       # number of overall hits
+system.cpu1.dcache.overall_misses::total         7369                       # number of overall misses
+system.cpu1.dcache.overall_accesses::total       254234                       # number of overall (read+write) accesses
+system.cpu1.dcache.overall_miss_rate::total     0.028985                       # miss rate for overall accesses
+system.cpu1.icache.overall_hits::total         658345                       # number of overall hits
+system.cpu1.icache.overall_misses::total         6437                       # number of overall misses
+system.cpu1.icache.overall_accesses::total       664782                       # number of overall (read+write) accesses
+system.cpu1.icache.overall_miss_rate::total     0.009683                       # miss rate for overall accesses
+system.cpu2.dcache.overall_hits::total      179385651                       # number of overall hits
+system.cpu2.dcache.overall_misses::total       208154                       # number of overall misses
+system.cpu2.dcache.overall_accesses::total    179593805                       # number of overall (read+write) accesses
+system.cpu2.dcache.overall_miss_rate::total     0.001159                       # miss rate for overall accesses
+system.cpu2.icache.overall_hits::total      756480902                       # number of overall hits
+system.cpu2.icache.overall_misses::total       438068                       # number of overall misses
+system.cpu2.icache.overall_accesses::total    756918970                       # number of overall (read+write) accesses
+system.cpu2.icache.overall_miss_rate::total     0.000579                       # miss rate for overall accesses
+system.cpu3.dcache.overall_hits::total         251586                       # number of overall hits
+system.cpu3.dcache.overall_misses::total         7512                       # number of overall misses
+system.cpu3.dcache.overall_accesses::total       259098                       # number of overall (read+write) accesses
+system.cpu3.dcache.overall_miss_rate::total     0.028993                       # miss rate for overall accesses
+system.cpu3.icache.overall_hits::total         680238                       # number of overall hits
+system.cpu3.icache.overall_misses::total         7323                       # number of overall misses
+system.cpu3.icache.overall_accesses::total       687561                       # number of overall (read+write) accesses
+system.cpu3.icache.overall_miss_rate::total     0.010651                       # miss rate for overall accesses
+system.l2.overall_hits::total                  501763                       # number of overall hits
+system.l2.overall_misses::total                171006                       # number of overall misses
+system.l2.overall_accesses::total              672769                       # number of overall (read+write) accesses
+system.l2.overall_miss_rate::total           0.254182                       # miss rate for overall accesses
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+system.cpu0.dcache.overall_hits::total       20400541                       # number of overall hits
+system.cpu0.dcache.overall_misses::total         2456                       # number of overall misses
+system.cpu0.dcache.overall_accesses::total     20402997                       # number of overall (read+write) accesses
+system.cpu0.dcache.overall_miss_rate::total     0.000120                       # miss rate for overall accesses
+system.cpu0.icache.overall_hits::total       93800926                       # number of overall hits
+system.cpu0.icache.overall_misses::total          636                       # number of overall misses
+system.cpu0.icache.overall_accesses::total     93801562                       # number of overall (read+write) accesses
+system.cpu0.icache.overall_miss_rate::total     0.000007                       # miss rate for overall accesses
+system.cpu1.dcache.overall_hits::total       20826712                       # number of overall hits
+system.cpu1.dcache.overall_misses::total        13037                       # number of overall misses
+system.cpu1.dcache.overall_accesses::total     20839749                       # number of overall (read+write) accesses
+system.cpu1.dcache.overall_miss_rate::total     0.000626                       # miss rate for overall accesses
+system.cpu1.icache.overall_hits::total       95612841                       # number of overall hits
+system.cpu1.icache.overall_misses::total         2343                       # number of overall misses
+system.cpu1.icache.overall_accesses::total     95615184                       # number of overall (read+write) accesses
+system.cpu1.icache.overall_miss_rate::total     0.000025                       # miss rate for overall accesses
+system.cpu2.dcache.overall_hits::total       21172892                       # number of overall hits
+system.cpu2.dcache.overall_misses::total        13365                       # number of overall misses
+system.cpu2.dcache.overall_accesses::total     21186257                       # number of overall (read+write) accesses
+system.cpu2.dcache.overall_miss_rate::total     0.000631                       # miss rate for overall accesses
+system.cpu2.icache.overall_hits::total       97219335                       # number of overall hits
+system.cpu2.icache.overall_misses::total         5814                       # number of overall misses
+system.cpu2.icache.overall_accesses::total     97225149                       # number of overall (read+write) accesses
+system.cpu2.icache.overall_miss_rate::total     0.000060                       # miss rate for overall accesses
+system.cpu3.dcache.overall_hits::total       19514026                       # number of overall hits
+system.cpu3.dcache.overall_misses::total         6679                       # number of overall misses
+system.cpu3.dcache.overall_accesses::total     19520705                       # number of overall (read+write) accesses
+system.cpu3.dcache.overall_miss_rate::total     0.000342                       # miss rate for overall accesses
+system.cpu3.icache.overall_hits::total       89709544                       # number of overall hits
+system.cpu3.icache.overall_misses::total          796                       # number of overall misses
+system.cpu3.icache.overall_accesses::total     89710340                       # number of overall (read+write) accesses
+system.cpu3.icache.overall_miss_rate::total     0.000009                       # miss rate for overall accesses
+system.l2.overall_hits::total                   30625                       # number of overall hits
+system.l2.overall_misses::total                 12126                       # number of overall misses
+system.l2.overall_accesses::total               42751                       # number of overall (read+write) accesses
+system.l2.overall_miss_rate::total           0.283642                       # miss rate for overall accesses
+---------- End Simulation Statistics   ----------

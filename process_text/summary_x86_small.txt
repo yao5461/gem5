@@ -1,0 +1,116 @@
+blackscholes-bip: 0.209987
+blackscholes-bip: 0.175952
+blackscholes-bip: 0.116459
+blackscholes-bip: 0.050740
+
+blackscholes-dip: 0.209440
+blackscholes-dip: 0.173437
+blackscholes-dip: 0.112434
+blackscholes-dip: 0.050175
+
+blackscholes-lip: 0.212009
+blackscholes-lip: 0.177343
+blackscholes-lip: 0.073101
+blackscholes-lip: 0.054143
+
+blackscholes-lru: 0.196750
+blackscholes-lru: 0.108154
+blackscholes-lru: 0.091390
+blackscholes-lru: 0.030240
+
+canneal-bip: 0.209981
+canneal-bip: 0.182018
+canneal-bip: 0.279789
+canneal-bip: 0.336554
+
+canneal-dip: 0.209438
+canneal-dip: 0.157167
+canneal-dip: 0.221483
+canneal-dip: 0.307517
+
+canneal-lip: 0.212008
+canneal-lip: 0.156010
+canneal-lip: 0.223467
+canneal-lip: 0.256770
+
+canneal-lru: 0.196750
+canneal-lru: 0.155844
+canneal-lru: 0.216629
+canneal-lru: 0.300046
+
+ferret-bip: 0.209987
+ferret-bip: 0.532513
+ferret-bip: 0.453249
+
+ferret-dip: 0.209440
+ferret-dip: 0.518961
+ferret-dip: 0.441545
+
+ferret-lip: 0.212009
+ferret-lip: 0.523230
+ferret-lip: 0.440366
+
+ferret-lru: 0.196750
+ferret-lru: 0.497616
+ferret-lru: 0.442658
+
+rtview-bip: 0.209980
+rtview-bip: 0.129921
+
+rtview-dip: 0.209436
+rtview-dip: 0.125445
+
+rtview-lip: 0.212008
+rtview-lip: 0.141150
+
+rtview-lru: 0.196750
+rtview-lru: 0.032376
+
+swaptions-bip: 0.209973
+swaptions-bip: 0.115011
+swaptions-bip: 0.030752
+
+swaptions-dip: 0.209436
+swaptions-dip: 0.110555
+swaptions-dip: 0.032296
+
+swaptions-lip: 0.212008
+swaptions-lip: 0.117155
+swaptions-lip: 0.032356
+
+swaptions-lru: 0.196750
+swaptions-lru: 0.056694
+swaptions-lru: 0.007263
+
+vips-bip: 0.209975
+vips-bip: 0.111439
+
+vips-dip: 0.209433
+vips-dip: 0.109713
+
+vips-lip: 0.211999
+vips-lip: 0.116417
+
+vips-lru: 0.196741
+vips-lru: 0.056260
+
+x264-bip: 0.209982
+x264-bip: 0.644637
+x264-bip: 0.178307
+x264-bip: 0.120491
+
+x264-dip: 0.209436
+x264-dip: 0.632628
+x264-dip: 0.174587
+x264-dip: 0.115710
+
+x264-lip: 0.212010
+x264-lip: 0.624543
+x264-lip: 0.180262
+x264-lip: 0.116599
+
+x264-lru: 0.196749
+x264-lru: 0.606619
+x264-lru: 0.143221
+x264-lru: 0.092147
+

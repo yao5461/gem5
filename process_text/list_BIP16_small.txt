@@ -1,0 +1,7 @@
+res_blackscholes_dip2.txt
+res_canneal_dip2.txt
+res_ferret_dip2.txt
+res_rtview_dip2.txt
+res_swaptions_dip2.txt
+res_vips_dip2.txt
+res_x264_dip2.txt

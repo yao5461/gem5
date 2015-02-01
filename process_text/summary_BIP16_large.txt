@@ -1,0 +1,28 @@
+blackscholes-dip2: 0.208334
+blackscholes-dip2: 0.247078
+blackscholes-dip2: 0.164850
+
+canneal-dip2: 0.208333
+canneal-dip2: 0.209394
+canneal-dip2: 0.300028
+canneal-dip2: 0.394679
+
+ferret-dip2: 0.208334
+ferret-dip2: 0.586010
+ferret-dip2: 0.437588
+
+rtview-dip2: 0.208330
+rtview-dip2: 0.116242
+
+swaptions-dip2: 0.208334
+swaptions-dip2: 0.107638
+swaptions-dip2: 0.037909
+
+vips-dip2: 0.208326
+vips-dip2: 0.105973
+
+x264-dip2: 0.208336
+x264-dip2: 0.596128
+x264-dip2: 0.177234
+x264-dip2: 0.467652
+

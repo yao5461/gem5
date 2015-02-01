@@ -1,0 +1,112 @@
+blackscholes-bip: 0.209987
+blackscholes-bip: 0.253471
+blackscholes-bip: 0.163718
+
+blackscholes-dip: 0.209440
+blackscholes-dip: 0.253167
+blackscholes-dip: 0.282151
+
+blackscholes-lip: 0.212009
+blackscholes-lip: 0.254182
+blackscholes-lip: 0.283642
+
+blackscholes-lru: 0.196750
+blackscholes-lru: 0.229490
+blackscholes-lru: 0.319724
+
+canneal-bip: 0.209981
+canneal-bip: 0.222214
+canneal-bip: 0.334861
+canneal-bip: 0.429582
+
+canneal-dip: 0.209438
+canneal-dip: 0.209411
+canneal-dip: 0.301210
+canneal-dip: 0.396782
+
+canneal-lip: 0.212008
+canneal-lip: 0.195652
+canneal-lip: 0.297233
+canneal-lip: 0.352430
+
+canneal-lru: 0.196750
+canneal-lru: 0.214779
+canneal-lru: 0.286324
+canneal-lru: 0.378896
+
+ferret-bip: 0.209987
+ferret-bip: 0.608601
+ferret-bip: 0.448137
+
+ferret-dip: 0.209440
+ferret-dip: 0.587476
+ferret-dip: 0.440059
+
+ferret-lip: 0.212009
+ferret-lip: 0.550828
+ferret-lip: 0.446776
+
+ferret-lru: 0.196750
+ferret-lru: 0.570166
+ferret-lru: 0.429276
+
+rtview-bip: 0.209980
+rtview-bip: 0.129921
+
+rtview-dip: 0.209436
+rtview-dip: 0.125445
+
+rtview-lip: 0.212008
+rtview-lip: 0.141150
+
+rtview-lru: 0.196750
+rtview-lru: 0.032376
+
+swaptions-bip: 0.209973
+swaptions-bip: 0.115138
+swaptions-bip: 0.026055
+
+swaptions-dip: 0.209436
+swaptions-dip: 0.110645
+swaptions-dip: 0.041420
+
+swaptions-lip: 0.212008
+swaptions-lip: 0.117247
+swaptions-lip: 0.045997
+
+swaptions-lru: 0.196750
+swaptions-lru: 0.056737
+swaptions-lru: 0.003894
+
+vips-bip: 0.209975
+vips-bip: 0.111342
+
+vips-dip: 0.209433
+vips-dip: 0.109590
+
+vips-lip: 0.211999
+vips-lip: 0.116232
+
+vips-lru: 0.196741
+vips-lru: 0.056246
+
+x264-bip: 0.209982
+x264-bip: 0.608322
+x264-bip: 0.179198
+x264-bip: 0.480939
+
+x264-dip: 0.209436
+x264-dip: 0.601028
+x264-dip: 0.179728
+x264-dip: 0.469818
+
+x264-lip: 0.212010
+x264-lip: 0.617570
+x264-lip: 0.172507
+x264-lip: 0.431805
+
+x264-lru: 0.196749
+x264-lru: 0.569352
+x264-lru: 0.135885
+x264-lru: 0.428456
+
